@@ -9,14 +9,14 @@ $color-three: #3A6073;
 
 body {
     //gradient from http://uigradients.com/
-  background: -webkit-linear-gradient(90deg, $color-two 10%, $color-three 90%); /* Chrome 10+, Saf5.1+ */
-  background:    -moz-linear-gradient(90deg, $color-two 10%, $color-three 90%); /* FF3.6+ */
-  background:     -ms-linear-gradient(90deg, $color-two 10%, $color-three 90%); /* IE10 */
-  background:      -o-linear-gradient(90deg, $color-two 10%, $color-three 90%); /* Opera 11.10+ */
-  background:         linear-gradient(90deg, $color-two 10%, $color-three 90%); /* W3C */
- //background: url("matcha_tea.jpg") no-repeat center center; /* for cloud 9 development */
+  //background: -webkit-linear-gradient(90deg, $color-two 10%, $color-three 90%); /* Chrome 10+, Saf5.1+ */
+  //background:    -moz-linear-gradient(90deg, $color-two 10%, $color-three 90%); /* FF3.6+ */
+  //background:     -ms-linear-gradient(90deg, $color-two 10%, $color-three 90%); /* IE10 */
+  //background:      -o-linear-gradient(90deg, $color-two 10%, $color-three 90%); /* Opera 11.10+ */
+  //background:         linear-gradient(90deg, $color-two 10%, $color-three 90%); /* W3C */
+ background: url("matcha_tea.jpg") no-repeat center center; /* for cloud 9 development */
  //background: url("../matcha_tea.jpg") no-repeat center center; /* for heroku development */
- //background-size: cover;
+ background-size: cover;
 }
 
 
