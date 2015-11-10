@@ -1,3 +1,8 @@
+.user-show-avatar {
+    height: 128px;
+    width: 128px;
+}
+
 .job-title-icon {
     background-color: hsl(208, 56%, 46%);
     display: inline-block;
@@ -25,4 +30,10 @@
 .well.contact-info {
     background-color: hsl(194, 66%, 61%);
     border-color: hsl(194, 67%, 56%);
+}
+
+.well.matcha-bg {
+    color: #fff;
+    background-color: hsl(120, 40%, 44%);
+    border-color: hsl(120, 40%, 37%);
 }
