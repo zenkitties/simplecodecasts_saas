@@ -1,0 +1,28 @@
+.job-title-icon {
+    background-color: hsl(208, 56%, 46%);
+    display: inline-block;
+    border: 2px solid hsl(208, 56%, 41%);
+    border-radius: 4px;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+.profile-block {
+    color: hsl(0, 100%, 100%);
+    
+    h3 {
+        margin-top: 0;
+    }
+}
+
+.well.profile-description {
+    background-color: hsl(120, 39%, 54%);
+    border-color: hsl(120, 39%, 49%);
+}
+    
+.well.contact-info {
+    background-color: hsl(194, 66%, 61%);
+    border-color: hsl(194, 67%, 56%);
+}
